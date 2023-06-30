@@ -14,12 +14,12 @@ def contribuicoes():
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "HOPPER, Grace Murray. Grace Hopper. 1979.\nWILLIAMS, Kathleen Broome. Grace Hopper: Admiral of the cyber sea. Naval Institute Press, 2013."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Para mim programação é mais do que uma arte prática importante. É também um empreendimento gigantesco nos fundamentos do conhecimento."
     return mensagem
 
 
