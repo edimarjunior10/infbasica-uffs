@@ -4,22 +4,22 @@ def resumo():
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Ada estudou matemática desde cedo, sua mãe proveu uma educação bastante rigorosa, em uma tentativa de impedir a filha de desenvolver o que ela via como a insanidade de Lord Byron. Fora educada em casa, aprendia matemática e ciências com William Frend, William King e Mary Somerville."
     return mensagem
 
 
 def contribuicoes():
-    mensagem = ""
+    mensagem = "a primeira programadora da história, uma vez que suas anotações foram observadas como sendo a primeira descrição de um software."
     return mensagem
 
 
 def artigos():
-    mensagem = ""
+    mensagem = "Babbage e Ada. Departamento de Ciência da Computação da Universidade de São Paulo (DCC-IME-USP) - Projeto MAC Multimídia. s.d. Disponível em: <https://www.ime.usp.br/~macmulti/historico/histcomp1_6.html>. ESSINGER, James. Ada's Algorithm: how Lord Byron's daughter Ada Lovelace launched the digital age through the poetry of numbers."
     return mensagem
 
 
 def citacoes():
-    mensagem = ""
+    mensagem = "Quanto mais estudo, mais sinto que minha mente nisso é insaciável.\nMeu cérebro é mais do que algo meramente mortal, e o tempo mostrará isso."
     return mensagem
 
 
@@ -33,7 +33,7 @@ def erro():
     return mensagem
 
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+print("\nBoa noite! Você está aprendendo sobre Ada Lovelace.\n")
 
 continuar = True
 while continuar == True:
