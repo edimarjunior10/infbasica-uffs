@@ -1,82 +1,64 @@
-def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
-    return mensagem
+print('''Quem é Mark Zuckerberg
+Mark Zuckerberg é um dos fundadores e CEO do Facebook. É também dos maiores bilionários do mundo e eleito uma das pessoas mais influentes pela revista Time.
 
+O que gerou essa impressionante fortuna:
 
-def doutorado():
-    mensagem = ""
-    return mensagem
+Mark Zuckerberg é uma das pessoas mais ricas do mundo, com fortuna de US$ 75,6 bilhões, segundo a revista Forbes 2023.
 
+Entre os fundadores do Facebook, que foi lançado em 2004, estão o brasileiro Eduardo Saverin, Chris Hughes e Dustin Moskovitz.
 
-def contribuicoes():
-    mensagem = ""
-    return mensagem
+O Facebook tem cerca de 2,7 bilhões de usuários mensais no mundo, além disso, a empresa possui o Instagram e o WhatsApp.
 
+EBOOK GRATUITO INVESTINDO NO EXTERIOR
 
-def artigos():
-    mensagem = ""
-    return mensagem
+História de Mark Zuckerberg
+Mark Zuckerberg
+Foto: Elaine Chan e Priscilla Chan
+Mark Elliot Zuckerberg nasceu em White Plains, localizada no estado de Nova York. Quando criança, ganhou diversos prêmios de matemática e física na escola.
 
+O que impressiona vem a seguir:
 
-def citacoes():
-    mensagem = ""
-    return mensagem
+Zuckerberg desenvolveu seu interesse por computadores bem cedo. Aos 12 anos, usou o Atari BASIC para criar um programa de troca de mensagens chamado Zucknet.
 
+No ensino médio, ele criou o Synapse, uma versão prévia do software de música Pandora. Diversas companhias, como a AOL e a Microsoft, expressaram interesse em comprar o software e contratar Zuckerberg, porém ele negou as ofertas.
 
-def sair():
-    mensagem = "\nObrigado pela leitura!"
-    return mensagem
+ Em 2002, o empreendedor entrou na Universidade de Harvard, mas seguiu o mesmo caminho de Bill Gates e Steve Jobs, que também deixaram os estudos para investir em suas empresas.
 
+Em seu segundo ano em Harvard, Mark escreveu o programa CourseMatch, que possibilitava aos usuários jogar Atari Asteroids 1968 entre si, sem conexões, cabos ou internet.
 
-def erro():
-    mensagem = "\nOpção inválida!"
-    return mensagem
+É dele também desenvolveu um programa chamado Facemash usado para escolher qual mulher era a mais bonita da universidade. Porém, em 2004, começou a atualização do Facemash, que saiu do ar, para o Facebook.
 
+Ele recebeu um diploma honorário de Harvard em 2017, quando discursou para a turma que estava se formando.
 
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
+Criação do Facebook
+Mark Zuckerberg 
+Foto: TechCrunch
+Com a criação do Facemash, uma plataforma para escolher a mulher mais bonita da universidade, Zuckerberg percebeu a possibilidade desse negócio.
 
-continuar = True
-while continuar == True:
+Essa foi a virada de chave:
 
-    opcao = int(
-        input(
-"""
-\nDigite o número correspondente ao menu que você deseja acessar:
-1 - Resumo
-2 - Doutorado
-3 - Contribuições
-4 - Principais Artigos
-5 - Citações
-6 - Sair\n
-"""
-        )
-    )
+Então, em 2004, ele atualizou o Facemash e criou o Facebook.  A ideia era criar uma rede social onde os alunos pudessem se conectar e colocar informações básicas, como seus contatos.
 
-    if opcao == 1:
-        print("1 - Resumo")
-        mensagem = resumo()
+O primeiro nome da rede foi The Facebook. O produto cresceu rápido e despertou interesse de outras instituições de assunto. Com isso, ganhou novas funcionalidades.
 
-    elif opcao == 2:
-        print("2 - Doutorado")
-        mensagem = doutorado()
+Entre os fundadores do Facebook, ou seja, que ajudaram a melhorar o produto estavam Dustin Moskovitz, Chris Hughes e Eduardo Saverin.
 
-    elif opcao == 3:
-        print("3 - Contribuições")
-        mensagem = contribuicoes()
+Além de investimento de ex-alunos de Harvard, como Sean Parker, um dos criadores do Napster, o Facebook abriu para pessoas em geral em 2006.
 
-    elif opcao == 4:
-        print("4 - Principais Artigos")
-        mensagem = artigos()
+Assim, Zuckerberg começou a ganhar dinheiro com o produto quando incluiu o Facebook Ads, que gerava receita com publicidade.
 
-    elif opcao == 5:
-        print("5 - Citações")
-        mensagem = citacoes()
+Ao longo de sua história, o Facebook teve várias polêmicas envolvendo seus ex-sócios, além da autoria questionada.
 
-    elif opcao == 6:
-        mensagem = sair()
-        continuar = False
+EBOOK GRATUITO INVESTINDO EM REITS
 
-    else:
-        mensagem = erro()
+Certo é que todos os participantes receberam dinheiro pela invenção da rede social. Além disso, os acionistas se beneficiaram com a valorização das ações da empresa.
 
-    print(mensagem)
+Em pouco tempo de existência, o Facebook se tornou a maior rede social do mundo.
+
+A rede social abriu capital na bolsa de valores de Nova York em 2012 – na época, o Facebook tinha por volta de 900 milhões de usuários e valor estimado em US$ 104 bilhões.
+
+A empresa é uma das maiores do mundo, com valor de mercado acima de US$ 500 bilhões. Atualmente, o Facebook tem cerca de 2,7 bilhões de usuários mensais no mundo.
+
+O sucesso fez de Mark Zuckerberg uma das pessoas mais ricas e poderosas do mundo. Ele já foi eleito por diversos veículos, como a revista norte-americana Time, um dos 100 mais influentes do planeta.
+
+De acordo com a Forbes 2021, Mark Zuckerberg tem patrimônio de US$ 93 bilhões. Ele é um dos mais bem posicionados na lista dos maiores bilionários do planeta.''')
