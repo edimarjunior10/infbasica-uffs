@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A ideia de Jacquard atravessou o Canal da Mancha, onde inspirou Charles Babbage (1792-1871), um professor de matemática de Cambridge, a desenvolver uma máquina de "tecer números", uma máquina de calcular onde a forma de calcular pudesse ser controlada por cartões.
 Charles Babbage foi um matemático inglês.
 Foi com Charles Babbage que o computador moderno começou a ganhar forma, através de seu trabalho no engenho analítico. O equipamento, apesar de nunca ter sido construído com sucesso, possuía todas as funcionalidades do computador moderno. Foi descrito originalmente em 1837, mais de um século antes que qualquer equipamento do gênero tivesse sido construído com sucesso. O grande diferencial do sistema de Babbage era o fato que seu dispositivo foi projetado para ser programável, item imprescindível para qualquer computador moderno.
@@ -10,3 +11,21 @@ Além disso tudo, Babbage imaginou a primeira máquina de impressão, que imprim
 Durante sua colaboração, a matemática Ada Lovelace publicou os primeiros programas de computador em uma série de notas para o engenho analítico. Por isso, Lovelace é popularmente considerada como a primeira programadora. Em parceria com Charles Babbage, Ada Augusta (1815-1852) ou Lady Lovelace, filha do poeta Lord Byron, era matemática amadora entusiasta. Ela se tornou a pioneira da lógica de programação, escrevendo séries de instruções para o calculador analítico. Ada inventou os conceitos de subrotina, uma seqüência de instruções que pode ser usada várias vezes, loop, uma instrução que permite a repetição de uma sequência de cartões, e do salto condicional, que permite saltar algum cartão caso uma condição seja satisfeita.
 Babbage teve muitas dificuldades com a tecnologia da época, que era inadequada para se construir componentes mecânicos com a precisão necessária. Com a suspensão do financiamento por parte do governo britânico, Babbage e Ada utilizaram a fortuna da família Byron até a falência, sem que pudessem concluir o projeto, e assim o calculador analítico nunca foi construído.
 Ada Lovelace e Charles Babbage estavam avançados demais para o seu tempo, tanto que até a década de 1940, nada se inventou parecido com seu computador analítico. Até essa época foram construídas muitas máquinas mecânicas de somar destinadas a controlar negócios (principalmente caixas registradoras) e algumas máquinas inspiradas na calculadora diferencial de Babbage, para realizar cálculos de engenharia (que não alcançaram grande sucesso).
+=======
+##Se hoje existem computadores e laptops dos mais variados modelos e tecnologia, agradeça a Charles Babbage. Talvez você nunca tenha ouvido falar nele, mas o inventor inglês que viveu entre 26 de dezembro de 1791 e 18 de outubro de 1871 é o nome por trás do primeiro computador programável do mundo. A máquina imaginada por Babbage, porém, nunca foi de fato construída por ele. O primeiro computador, na realidade, só apareceu anos depois, em 1936, a partir das mãos do engenheiro alemão Konrad Zuse.
+
+##Babbage, no entanto, é considerado o pai dos aparelhos que apreciamos tanto atualmente. A seguir, saiba mais sobre ele:
+
+##Infância
+##Filho de um banqueiro, Babbage foi educado em boas escolas e por bons tutores. Seu interesse pela matemática surgiu quando frequentou a academia Holmwood, que contava com uma biblioteca abastecida de livros sobre o assunto. Ele frequentou o Trinity College, em Cambridge, onde depois ensinou matemática.
+
+##Prestígio
+##Em 1812, Babbage ajudou a fundar a Sociedade Analítica, cujo objetivo era introduzir desenvolvimentos de toda a Europa à matemática inglesa. Quatro anos depois, foi eleito membro da Real Sociedade de Londres para o Melhoramento do Conhecimento Natural, a célebre Royal Society.
+
+##Ilustração de Charles Babbage em jornal inglês de 1871 (Foto: Wikimedia/Unknown staff artist for The Illustrated London News)
+##Ilustração de Charles Babbage em jornal inglês de 1871 (Foto: Wikimedia/Unknown staff artist for The Illustrated London News)
+##Computador
+##Em 1801, o francês Joseph Marie Jacquard criou um tear mecânico, com uma leitora automática de cartões. A ideia inspirou Babbage, do outro lado do Canal da Mancha, a idealizar uma máquina de tecer números que fizesse cálculos e pudesse ser controlada por cartões.
+
+##Em 1822, apresentou o projeto de sua grande máquina, a qual chamou de máquina diferencial, capaz de resolver equações polinomiais, possibilitando a construção de tabelas de logaritmos, um dos maiores problemas da época. Em 1823, recebeu financiamento do governo britânico para desenvolver um aparelho que pudesse resolver qualquer tipo de cálculo — ideia por trás dos computadores.
+>>>>>>> trabalhoB
