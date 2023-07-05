@@ -1,82 +1,16 @@
-def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
-    return mensagem
+##Se hoje existem computadores e laptops dos mais variados modelos e tecnologia, agradeça a Charles Babbage. Talvez você nunca tenha ouvido falar nele, mas o inventor inglês que viveu entre 26 de dezembro de 1791 e 18 de outubro de 1871 é o nome por trás do primeiro computador programável do mundo. A máquina imaginada por Babbage, porém, nunca foi de fato construída por ele. O primeiro computador, na realidade, só apareceu anos depois, em 1936, a partir das mãos do engenheiro alemão Konrad Zuse.
 
+##Babbage, no entanto, é considerado o pai dos aparelhos que apreciamos tanto atualmente. A seguir, saiba mais sobre ele:
 
-def doutorado():
-    mensagem = ""
-    return mensagem
+##Infância
+##Filho de um banqueiro, Babbage foi educado em boas escolas e por bons tutores. Seu interesse pela matemática surgiu quando frequentou a academia Holmwood, que contava com uma biblioteca abastecida de livros sobre o assunto. Ele frequentou o Trinity College, em Cambridge, onde depois ensinou matemática.
 
+##Prestígio
+##Em 1812, Babbage ajudou a fundar a Sociedade Analítica, cujo objetivo era introduzir desenvolvimentos de toda a Europa à matemática inglesa. Quatro anos depois, foi eleito membro da Real Sociedade de Londres para o Melhoramento do Conhecimento Natural, a célebre Royal Society.
 
-def contribuicoes():
-    mensagem = ""
-    return mensagem
+##Ilustração de Charles Babbage em jornal inglês de 1871 (Foto: Wikimedia/Unknown staff artist for The Illustrated London News)
+##Ilustração de Charles Babbage em jornal inglês de 1871 (Foto: Wikimedia/Unknown staff artist for The Illustrated London News)
+##Computador
+##Em 1801, o francês Joseph Marie Jacquard criou um tear mecânico, com uma leitora automática de cartões. A ideia inspirou Babbage, do outro lado do Canal da Mancha, a idealizar uma máquina de tecer números que fizesse cálculos e pudesse ser controlada por cartões.
 
-
-def artigos():
-    mensagem = ""
-    return mensagem
-
-
-def citacoes():
-    mensagem = ""
-    return mensagem
-
-
-def sair():
-    mensagem = "\nObrigado pela leitura!"
-    return mensagem
-
-
-def erro():
-    mensagem = "\nOpção inválida!"
-    return mensagem
-
-
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
-
-continuar = True
-while continuar == True:
-
-    opcao = int(
-        input(
-"""
-\nDigite o número correspondente ao menu que você deseja acessar:
-1 - Resumo
-2 - Doutorado
-3 - Contribuições
-4 - Principais Artigos
-5 - Citações
-6 - Sair\n
-"""
-        )
-    )
-
-    if opcao == 1:
-        print("1 - Resumo")
-        mensagem = resumo()
-
-    elif opcao == 2:
-        print("2 - Doutorado")
-        mensagem = doutorado()
-
-    elif opcao == 3:
-        print("3 - Contribuições")
-        mensagem = contribuicoes()
-
-    elif opcao == 4:
-        print("4 - Principais Artigos")
-        mensagem = artigos()
-
-    elif opcao == 5:
-        print("5 - Citações")
-        mensagem = citacoes()
-
-    elif opcao == 6:
-        mensagem = sair()
-        continuar = False
-
-    else:
-        mensagem = erro()
-
-    print(mensagem)
+##Em 1822, apresentou o projeto de sua grande máquina, a qual chamou de máquina diferencial, capaz de resolver equações polinomiais, possibilitando a construção de tabelas de logaritmos, um dos maiores problemas da época. Em 1823, recebeu financiamento do governo britânico para desenvolver um aparelho que pudesse resolver qualquer tipo de cálculo — ideia por trás dos computadores.
