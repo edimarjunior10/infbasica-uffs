@@ -1,82 +1,8 @@
-def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
-    return mensagem
+Susan Diane Wojcicki is an American business executive who was the chief executive officer of YouTube from 2014 to 2023. Her net worth was estimated at $765 million in 2022. Wojcicki has worked in the technology industry for over twenty years. Wikipedia
+=======
+Quem é Susan Wojcicki?
+Susan Wojcicki é ex-CEO do Youtube, a maior plataforma de compartilhamento de vídeos da Internet. A empresária passou a maior parte de sua carreira no Google, estando no grupo desde a criação da empresa, no final dos anos 1990.
 
+Susan foi fundamental na criação de alguns dos produtos mais lucrativos da história das corporações multinacionais. Monetize o negócio e dê ao Grupo uma vantagem competitiva.
 
-def doutorado():
-    mensagem = ""
-    return mensagem
-
-
-def contribuicoes():
-    mensagem = ""
-    return mensagem
-
-
-def artigos():
-    mensagem = ""
-    return mensagem
-
-
-def citacoes():
-    mensagem = ""
-    return mensagem
-
-
-def sair():
-    mensagem = "\nObrigado pela leitura!"
-    return mensagem
-
-
-def erro():
-    mensagem = "\nOpção inválida!"
-    return mensagem
-
-
-print("\nBoa noite! Você está aprendendo sobre Allan Turing.\n")
-
-continuar = True
-while continuar == True:
-
-    opcao = int(
-        input(
-"""
-\nDigite o número correspondente ao menu que você deseja acessar:
-1 - Resumo
-2 - Doutorado
-3 - Contribuições
-4 - Principais Artigos
-5 - Citações
-6 - Sair\n
-"""
-        )
-    )
-
-    if opcao == 1:
-        print("1 - Resumo")
-        mensagem = resumo()
-
-    elif opcao == 2:
-        print("2 - Doutorado")
-        mensagem = doutorado()
-
-    elif opcao == 3:
-        print("3 - Contribuições")
-        mensagem = contribuicoes()
-
-    elif opcao == 4:
-        print("4 - Principais Artigos")
-        mensagem = artigos()
-
-    elif opcao == 5:
-        print("5 - Citações")
-        mensagem = citacoes()
-
-    elif opcao == 6:
-        mensagem = sair()
-        continuar = False
-
-    else:
-        mensagem = erro()
-
-    print(mensagem)
+Antes de ingressar no Google, Wojcicki trabalhou na Intel, além da Bain & Company e R.B. Weber.
